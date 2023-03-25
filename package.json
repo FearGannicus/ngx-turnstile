@@ -1,5 +1,5 @@
 {
-  "name": "ngx-turnstile",
+  "name": "@feargannicus/ngx-turnstile",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
